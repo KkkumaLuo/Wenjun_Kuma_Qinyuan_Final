@@ -6,6 +6,7 @@ project:
 
 website:
   title: "Wenjun Kuma Qinyuan Final"
+  base-url: "/Wenjun_Kuma_Qinyuan_Final/"
   page-footer:
     left: "kumaluo@upenn.edu, zwenjun@upenn.edu, zhangqy@upenn.edu"
     right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
