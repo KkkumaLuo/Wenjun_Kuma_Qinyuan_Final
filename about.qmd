@@ -1,0 +1,23 @@
+---
+title: "About Us"
+toc: false
+---
+
+<div style="display: flex; flex-direction: column; gap: 30px;">
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/Kuma.png" alt="Kuma Luo" style="width: 120px; height: auto; border-radius: 10px;">
+  <p><strong>My name is Kuma Luo</strong>, a second-year student in MCP Program concentrating on Smart Cities.</p>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/Wenjun.png" alt="Wenjun Zhu" style="width: 120px; height: auto; border-radius: 10px;">
+  <p><strong>My name is Wenjun Zhu</strong>, a second-year student in MCP Program concentrating on Smart Cities.</p>
+</div>
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="images/Chloe.png" alt="Chloe Zhang" style="width: 120px; height: auto; border-radius: 10px;">
+  <p><strong>My name is Chloe Zhang</strong>, a first-year student in MCP Program concentrating on HCED.</p>
+</div>
+
+</div>
