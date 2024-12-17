@@ -15,4 +15,4 @@ Data collection will be conducted through advanced means, including scraping Goo
 
 The analysis will be sufficiently complex, incorporating NLP-based sentiment analysis, geospatial joins, and k-means clustering. We will perform a geospatial analysis using tools like Osmnx to evaluate restaurant accessibility and neighborhood characteristics. Additionally, the project will include interactive visualizations through dashboards and maps.
 
-The published site for this repository is available at:[file:///Users/chloezhang/Desktop/quarto_template-main/docs/index.html](file:///Users/chloezhang/Desktop/quarto_template-main/docs/index.html).
+The published site for this repository is available at:
