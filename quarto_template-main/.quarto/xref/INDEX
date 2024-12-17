@@ -1,0 +1,41 @@
+{
+  "analysis/3-altair-hvplot.ipynb": {
+    "3-altair-hvplot.html": "8c0c1614"
+  },
+  "analysis/final_2.ipynb": {
+    "final_2.html": "696e00d3"
+  },
+  "analysis/index.qmd": {
+    "index.html": "4d0beeeb"
+  },
+  "analysis/1-python-code-blocks.qmd": {
+    "1-python-code-blocks.html": "73cbafae"
+  },
+  "analysis/2-static-images.ipynb": {
+    "2-static-images.html": "384d5e54"
+  },
+  "analysis/4-folium.ipynb": {
+    "4-folium.html": "64fa363f"
+  },
+  "index.qmd": {
+    "index.html": "e2873230"
+  },
+  "about.qmd": {
+    "about.html": "37684706"
+  },
+  "analysis/5_K-means_to Identify_Best Dating Places.ipynb": {
+    "5_K-means_to Identify_Best Dating Places.html": "889b6720"
+  },
+  "analysis/1_Data_Cleaning.ipynb": {
+    "1_Data_Cleaning.html": "f76f1e4b"
+  },
+  "analysis/4_interactive_map.ipynb": {
+    "4_interactive_map.html": "692b6e47"
+  },
+  "analysis/3_NYC_Restaurant_Environmental_Insights.ipynb": {
+    "3_NYC_Restaurant_Environmental_Insights.html": "9d9bd56a"
+  },
+  "analysis/2_DatingScore_Restaurants.ipynb": {
+    "2_DatingScore_Restaurants.html": "bf42f378"
+  }
+}
