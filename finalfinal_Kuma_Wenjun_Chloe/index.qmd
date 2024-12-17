@@ -1,0 +1,12 @@
+---
+title: "MUSA5500 Final Project"
+subtitle: "Analyzing the Best Restaurants for Dating in New York City"
+---
+
+## Welcome!
+
+Our project aims to answer the question: "What makes an ideal restaurant for couples to go on a date?" Specifically, we will identify the top 10 restaurants in New York City for dating based on reviews and evaluate why these establishments are popular. The analysis will explore factors such as proximity to public transit or parking, median income of the neighborhood, cuisine type, and social media engagement metrics. Through this study, we seek to provide actionable insights into the characteristics that define an ideal dating spot.
+
+::: {.callout-important}
+This template site, including the layout it uses, is just a suggested place to start! For your final project, you’re welcome (and encouraged) to make as many changes as you like to best fit your project.
+:::
