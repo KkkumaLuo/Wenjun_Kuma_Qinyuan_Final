@@ -1,0 +1,50 @@
+project:
+  type: website
+  output-dir: docs
+  preview:
+    port: 3333
+
+website:
+  title: "Final Project"
+  page-footer:
+    left: "Final Project"
+    right: "This page is built with ❤️ and [Quarto](https://quarto.org/)."
+
+  sidebar:
+    logo: "images/course-icon.png"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/KkkumaLuo
+        text: "MUSA 550 GitHub"
+      - icon: github
+        href: https://github.com/whitneypig
+        text: "MUSA 550 GitHub"
+      - icon: github
+        href: https://github.com/chloezhang1103
+        text: "MUSA 550 GitHub"
+    style: "docked"
+    search: true
+    collapse-level: 2
+    contents:
+      - href: index.qmd
+        text: Welcome
+      - about.qmd
+      - section: analysis/index.qmd
+        contents:
+          - analysis/1_Data_Cleaning.ipynb
+          - analysis/2_DatingScore_Restaurants.ipynb
+          - analysis/3_NYC_Restaurant_Environmental_Insights.ipynb
+          - analysis/4_interactive_map.ipynb
+          - analysis/5_K-means_to Identify_Best Dating Places.ipynb
+          
+format:
+  html:
+    highlight-style: solarized
+    theme: cosmo
+    css: styles.css
+    code-copy: true
+    code-overflow: wrap
+    toc: true
+    
